@@ -1,0 +1,84 @@
+/**kalam**/
+@font-face {
+  font-family: 'Kalam';
+  font-style: light;
+  font-weight: 300;
+  src: local('Kalam Light'), local('Kalam-Light'),
+  url(../fonts/kalam/Kalam-Light.ttf) format('truetype'),
+  url(../fonts/kalam/Kalam-Light.woff) format('woff'),
+  url(../fonts/kalam/Kalam-Light.woff2) format('woff2'),
+  url(../fonts/kalam/Kalam-Light.svg) format('svg'),
+  url(../fonts/kalam/Kalam-Light.eot) format('eot');
+  
+}
+@font-face {
+  font-family: 'Kalam';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Kalam Regular'), local('Kalam-Regular'),
+  url(../fonts/kalam/Kalam-Regular.ttf) format('truetype'),
+  url(../fonts/kalam/Kalam-Regular.woff) format('woff'),
+  url(../fonts/kalam/Kalam-Regular.woff2) format('woff2'),
+  url(../fonts/kalam/Kalam-Regular.svg) format('svg'),
+  url(../fonts/kalam/Kalam-Regular.eot) format('eot');
+  
+}
+@font-face {
+  font-family: 'Kalam';
+  font-style: bold;
+  font-weight: 700;
+  src: local('Kalam Bold'), local('Kalam-Bold'),
+  url(../fonts/kalam/Kalam-Bold.ttf) format('truetype'),
+  url(../fonts/kalam/Kalam-Bold.woff) format('woff'),
+  url(../fonts/kalam/Kalam-Bold.woff2) format('woff2'),
+  url(../fonts/kalam/Kalam-Bold.svg) format('svg'),
+  url(../fonts/kalam/Kalam-Bold.eot) format('eot');
+  
+}
+
+/**lato**/
+
+@font-face {
+  font-family: 'Lato';
+  font-style: light;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'),
+  url(../fonts/lato/Lato-Light.ttf) format('truetype'),
+  url(../fonts/lato/Lato-Light.woff) format('woff'),
+  url(../fonts/lato/Lato-Light.woff2) format('woff2'),
+  url(../fonts/lato/Lato-Light.svg) format('svg'),
+  url(../fonts/lato/Lato-Light.eot) format('eot');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: regular;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'),
+  url(../fonts/lato/Lato-Regular.ttf) format('truetype'),
+  url(../fonts/lato/Lato-Regular.woff) format('woff'),
+  url(../fonts/lato/Lato-Regular.woff2) format('woff2'),
+  url(../fonts/lato/Lato-Regular.svg) format('svg'),
+  url(../fonts/lato/Lato-Regular.eot) format('eot');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: bold;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'),
+  url(../fonts/lato/Lato-Bold.ttf) format('truetype'),
+  url(../fonts/lato/Lato-Bold.woff) format('woff'),
+  url(../fonts/lato/Lato-Bold.woff2) format('woff2'),
+  url(../fonts/lato/Lato-Bold.svg) format('svg'),
+  url(../fonts/lato/Lato-Bold.eot) format('eot');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: black;
+  font-weight: 900;
+  src: local('Lato Black'), local('Lato-Black'),
+  url(../fonts/lato/Lato-Black.ttf) format('truetype'),
+  url(../fonts/lato/Lato-Black.woff) format('woff'),
+  url(../fonts/lato/Lato-Black.woff2) format('woff2'),
+  url(../fonts/lato/Lato-Black.svg) format('svg'),
+  url(../fonts/lato/Lato-Black.eot) format('eot');
+}
